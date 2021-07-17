@@ -1,3 +1,3 @@
-# Headline
+# Mockingbird
 
-> An awesome project.
+> An awesome project called Mockingbird.
